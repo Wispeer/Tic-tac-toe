@@ -6,3 +6,22 @@ body {
     justify-content: center;
     height: 100vh;
   }
+
+h1 {
+  background-color: rgb(19, 156, 127);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  }
+
+.bottom {
+  background-color: rgb(19, 156, 127);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100px;
+}
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

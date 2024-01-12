@@ -4,7 +4,7 @@
     grid-template-rows: repeat(3, 1fr);
     grid-column-gap: 10px;
     grid-row-gap: 10px;
-    height: 100vh;
+    height: 80vh;
     }
     
 .div1 { grid-area: 1 / 1 / 2 / 2; }
@@ -27,4 +27,12 @@
 
 .parent > div{
     background-color: rgb(19, 156, 127);
+    height: auto;
     }
+
+/* .button {
+  background-color: rgb(19, 156, 127);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+} */
